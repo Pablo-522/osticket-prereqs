@@ -28,14 +28,14 @@ This is my tutorial on the prerequisites and installation process for OsTicket.<
 <h3 align="center">Create Virutal Machine in Azure</h3>
 <br />
 <p>
-<h3 align="center">First, we'll start by creating a Resource Group inside Azure.</h3>
+<h3 align="center">The first step, we'll start by creating a Resource Group inside Azure.</h3>
 <br />
 </p>
 <p>
 	<img src="https://i.imgur.com/fGDNW6s.png" height="75%" width="100%" alt="Resource Group"/>
 </p>
 <p>
-<h3 align="center">Now, create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. The username and password, it can be anything as we'll be using this info to remote in with our main computer. When creating the Virtual Machine (VM), allow Azure to create a new Virtual Network (Vnet):</h3>
+<h3 align="center">Now, we can create a Windows 10 Virtual Machine. The username and password,  can be anything however it is important to remember as we'll be using this info to remote in with our main computer. When creating the Virtual Machine, allow Azure to create a new Virtual Network:</h3>
 <br />
 </p>
 <p>
@@ -43,7 +43,7 @@ This is my tutorial on the prerequisites and installation process for OsTicket.<
 </p>
 <br />
 <br />
-<h3 align="center">Open your Remote Desktop Connection app on your computer and connect to your Virtual Machine that was created in Azure. NOTE: If you're asked to sign into your main account (your computer) click on "More Options".</h3>
+<h3 align="center">Next, we'll open our Remote Desktop Connection app on your computer and connect to your Virtual Machine that was created in Azure. If you're asked to sign into your main account (your computer) click on "More Options".</h3>
 <br />
 <p>
 	<img src="https://i.imgur.com/1zaKYCE.png" height="75%" width="100%" alt="Remote Desktop"/>
