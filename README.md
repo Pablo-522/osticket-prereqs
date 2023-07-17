@@ -186,7 +186,7 @@ This is my tutorial on the prerequisites and installation process for OsTicket.<
 	<img src="https://i.imgur.com/8fwZcjC.png" height="75%" width="100%" alt="new permissions"/>
 </p>
 <p>
-	<img src="https://i/imgur.com/vfqh6Oo.png" height="75%" width="100%" alt="new permissions - all"/>
+	<img src="https://i.imgur.com/vfqh6Oo.png" height="75%" width="100%" alt="new permissions - all"/>
 </p>
 <br />
 <br />
