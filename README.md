@@ -7,9 +7,9 @@ This is my tutorial on the prerequisites and installation process for OsTicket.<
 
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>The Enivronment and Tehcnology I used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -19,10 +19,10 @@ This is my tutorial on the prerequisites and installation process for OsTicket.<
 
 <h2>List of Prerequisites</h2>
 
-- Create Virtual Machine in Azure
-- Install Web Platform Installer
+- Creating Virtual Machine side of Azure
 - Install osTicket v1.15.8
 - Install HeidiSQL
+- -Install PHP Manager
 
 <h2>Installation Steps</h2>
 <h3 align="center">Create Virutal Machine in Azure</h3>
@@ -35,7 +35,7 @@ This is my tutorial on the prerequisites and installation process for OsTicket.<
 	<img src="https://i.imgur.com/fGDNW6s.png" height="75%" width="100%" alt="Resource Group"/>
 </p>
 <p>
-<h3 align="center">Now, we can create a Windows 10 Virtual Machine. The username and password,  can be anything however it is important to remember as we'll be using this info to remote in with our main computer. When creating the Virtual Machine, allow Azure to create a new Virtual Network:</h3>
+<h3 align="center">Now, we can create a Windows 10 Virtual Machine. The username and password can be anything however it is important to remember as we'll be using this info to remote in with our main computer. When creating the Virtual Machine, allow Azure to create a new Virtual Network:</h3>
 <br />
 </p>
 <p>
